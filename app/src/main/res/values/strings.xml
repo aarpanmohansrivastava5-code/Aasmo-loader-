@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Aasmo Loader</string>
+    <string name="nav_browser">Browser</string>
+    <string name="nav_loader">Loader</string>
+    <string name="nav_hubs">Hubs</string>
+    <string name="nav_ai">AI &amp; More</string>
+    <string name="browser_omni_hint">Search or enter address</string>
+    <string name="browser_search_hint">Search the web</string>
+    <string name="browser_search_cta">Search</string>
+    <string name="browser_new_tab">New tab</string>
+    <string name="cd_back">Back</string>
+    <string name="cd_forward">Forward</string>
+    <string name="cd_reload">Reload</string>
+    <string name="cd_bookmark">Bookmark this page</string>
+    <string name="cd_menu">Browser menu</string>
+    <string name="cd_close_tab">Close tab</string>
+    <string name="cd_add_tab">Add new tab</string>
+    <string name="cd_download_page">Open Universal Downloader</string>
+</resources>

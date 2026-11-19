@@ -1,0 +1,6 @@
+{
+  "name": "Aasmo Loader",
+  "description": "Liquid glass universal downloader, Prism browser, GitHub release hub, VPN tunnel, social media hub, and Gemini AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
